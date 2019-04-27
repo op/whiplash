@@ -47,7 +47,8 @@ export NEWT_COLORS_FILE=~/.config/whiplash/lamenting
 If you want to test how it out, try;
 
 ```
-NEWT_COLORS_FILE=lamenting ./example/yesno archivist
+NEWT_COLORS_FILE=lamenting ./example/whiptail
+NEWT_COLORS_FILE=scorched ./example/msgbox 'No Pasaran'
 ```
 
 ## Background

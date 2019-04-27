@@ -1,0 +1,6 @@
+#!/bin/sh
+
+whiptail \
+  --backtitle Backtitle \
+  --title Title \
+  --msgbox "$1" 0 0
