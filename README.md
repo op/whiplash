@@ -28,6 +28,13 @@ Scorched is a dark theme with red.
 [![scorched gauge](media/scorched-gauge.png)](media/scorched-gauge.png)
 [![scorched checklist](media/scorched-checklist.png)](media/scorched-checklist.png)
 
+### default
+
+This is the default for illustrative purposes.
+
+[![default gauge](media/default-gauge.png)](media/default-gauge.png)
+[![default checklist](media/default-checklist.png)](media/default-checklist.png)
+
 ## Usage
 
 This is one way to do it. Your taste might differ.
