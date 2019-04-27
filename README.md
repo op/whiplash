@@ -41,7 +41,7 @@ This is one way to do it. Your taste might differ.
 
 ```
 git clone https://github.com/op/whiplash ~/.cofig/whiplash
-export NEWT_COLORS_FILE=~/.config/whiplash/lamenting.newtrc
+export NEWT_COLORS_FILE=~/.config/whiplash/lamenting
 ```
 
 If you want to test how it out, try;
