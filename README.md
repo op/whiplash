@@ -21,6 +21,13 @@ Lamenting is a darker theme with some green and magenta.
 [![lamenting gauge](media/lamenting-gauge.png)](media/lamenting-gauge.png)
 [![lamenting checklist](media/lamenting-checklist.png)](media/lamenting-checklist.png)
 
+### Scorched
+
+Scorched is a dark theme with red.
+
+[![scorched gauge](media/scorched-gauge.png)](media/scorched-gauge.png)
+[![scorched checklist](media/scorched-checklist.png)](media/scorched-checklist.png)
+
 ## Usage
 
 This is one way to do it. Your taste might differ.

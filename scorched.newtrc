@@ -1,0 +1,17 @@
+root=white,red
+window=white,gray
+border=lightgray,gray
+shadow=white,black
+button=black,green
+actbutton=black,red
+compactbutton=lightgray,black
+title=yellow,gray
+roottext=red,black
+textbox=lightgray,gray
+acttextbox=gray,white
+entry=black,lightgray
+disentry=gray,black
+checkbox=black,lightgray
+actcheckbox=black,green
+emptyscale=,lightgray
+fullscale=,brown
