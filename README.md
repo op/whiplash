@@ -37,16 +37,17 @@ This is the default for illustrative purposes.
 
 ## Usage
 
-This is one way to do it. Your taste might differ.
+Copy the color scheme and setup your environment.
 
 ```
-git clone https://github.com/op/whiplash ~/.cofig/whiplash
+git clone https://github.com/op/whiplash ~/.config/whiplash
 export NEWT_COLORS_FILE=~/.config/whiplash/lamenting
 ```
 
-If you want to test how it out, try;
+If you want to try it out;
 
 ```
+cd ~/.config/whiplash
 NEWT_COLORS_FILE=lamenting ./example/whiptail
 NEWT_COLORS_FILE=scorched ./example/msgbox 'No Pasaran'
 ```
