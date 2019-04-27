@@ -44,6 +44,12 @@ git clone https://github.com/op/whiplash ~/.cofig/whiplash
 export NEWT_COLORS_FILE=~/.config/whiplash/lamenting.newtrc
 ```
 
+If you want to test how it out, try;
+
+```
+./example/yesno archivist
+```
+
 ## Background
 
 Had to write this down. My journey with [debconf] frontends.
