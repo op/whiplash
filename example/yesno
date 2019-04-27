@@ -1,7 +1,8 @@
 #!/bin/sh
 
-exec whiptail \
+whiptail \
   --backtitle Backtitle \
   --title Title \
   --scrolltext \
+  --defaultno \
   --yesno "$1" 15 45
