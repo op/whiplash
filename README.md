@@ -18,22 +18,22 @@ Here follows some examples.
 
 Lamenting is a darker theme with some green and magenta.
 
-[![lamenting gauge](media/lamenting-gauge.png =240px)](media/lamenting-gauge.png)
-[![lamenting checklist](media/lamenting-checklist.png =240px)](media/lamenting-checklist.png)
+[![lamenting gauge](media/lamenting-gauge-thumb.png)](media/lamenting-gauge.png)
+[![lamenting checklist](media/lamenting-checklist-thumb.png)](media/lamenting-checklist.png)
 
 ### Scorched
 
 Scorched is a dark theme with red.
 
-[![scorched gauge](media/scorched-gauge.png =240px)](media/scorched-gauge.png)
-[![scorched checklist](media/scorched-checklist.png =240px)](media/scorched-checklist.png)
+[![scorched gauge](media/scorched-gauge-thumb.png)](media/scorched-gauge.png)
+[![scorched checklist](media/scorched-checklist-thumb.png)](media/scorched-checklist.png)
 
 ### default
 
 This is the default for illustrative purposes.
 
-[![default gauge](media/default-gauge.png =240px)](media/default-gauge.png)
-[![default checklist](media/default-checklist.png =240px)](media/default-checklist.png)
+[![default gauge](media/default-gauge-thumb.png)](media/default-gauge.png)
+[![default checklist](media/default-checklist-thumb.png)](media/default-checklist.png)
 
 ## Usage
 
