@@ -15,3 +15,6 @@ checkbox=black,lightgray
 actcheckbox=black,green
 emptyscale=,black
 fullscale=,red
+listbox=black,lightgray
+actlistbox=lightgray,gray
+actsellistbox=black,green
