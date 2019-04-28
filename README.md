@@ -44,6 +44,14 @@ git clone https://github.com/op/whiplash ~/.config/whiplash
 export NEWT_COLORS_FILE=~/.config/whiplash/lamenting
 ```
 
+To setup with debconf (select dialog);
+
+```
+sudo visudo /etc/sudoers.d/newt
+Defaults env_keep += "NEWT_COLORS_FILE"
+sudo dpkg-reconfigure debconf
+```
+
 If you want to try it out;
 
 ```
